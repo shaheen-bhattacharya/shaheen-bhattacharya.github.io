@@ -1,23 +1,22 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
+  name: "Shaheen Bhattacharya",
   title: "Senior Software Engineer",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "shaheen.bhattacharya1773@gmail.com",
+    linkedin: "https://linkedin.com/in/shaheen-bhattacharya",
+    github: "https://github.com/shaheen-bhattacharya",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "",
+  skills: ["Python", "Java", "C/C++", "SQL", "HTML/CSS/JS", "PyTorch", "TensorFlow", "Git", "REST APIs", "Office 365", "Google Suite"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Focus Tracker",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+        "Developed a Chrome extension with Flask API backend using Claude API classify websites as distracting in real time. Trained custom model on web-scraped datasets achieving 85% accuracy; integrated HTTP GET/POST request handling.",
+      link: "https://github.com/shaheen-bhattacharya/FocusExtention",
       skills: ["React", "Node.js", "AWS"],
     },
     {
