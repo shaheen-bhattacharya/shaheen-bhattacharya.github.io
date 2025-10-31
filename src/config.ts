@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "shaheen.bhattacharya1773@gmail.com",
-    linkedin: "https://linkedin.com/in/shaheen-bhattacharya",
+    linkedin: "https://www.linkedin.com/in/shaheen-bhattacharya-416b94365",
     github: "https://github.com/shaheen-bhattacharya",
   },
   aboutMe:
@@ -17,21 +17,21 @@ export const siteConfig = {
       description:
         "Developed a Chrome extension with Flask API backend using Claude API classify websites as distracting in real time. Trained custom model on web-scraped datasets achieving 85% accuracy; integrated HTTP GET/POST request handling.",
       link: "https://github.com/shaheen-bhattacharya/FocusExtention",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Full Stack Development", "FlaskAPI", "React", "UI/UX", "Python"],
     },
     {
       name: "BotaniScan",
       description:
         "This is an app which allows you to track the health conditions of your plants and see whether or not they are infected. The AI model trained here is close to 97% accuracy and it can correctly identify your plants in most cases.",
       link: "https://github.com/shaheen-bhattacharya/BotaniScan",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Model Training", "Data Analysis", "Fine Tuning", "HTML/CSS/JS"],
     },
     {
       name: "Summailize",
       description:
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://github.com/shaheen-bhattacharya/Summailize",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["REST API", "Automation", "AI/ML Development", "Gmail API"],
     },
   ],
   experience: [
