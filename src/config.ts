@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Shaheen",
+  name: "Shaheen Bhattacharya",
   title: "Software Engineer & AI/ML Researcher",
   description: "Portfolio website of Shaheen Bhattacharya",
   accentColor: "#1d4ed8",
