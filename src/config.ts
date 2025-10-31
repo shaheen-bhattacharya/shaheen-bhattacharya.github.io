@@ -41,7 +41,7 @@ export const siteConfig = {
       dateRange: "Sep. 2025 - Present",
       bullets: [
         "Conducting research on Vision Transformers for tracking Mesoscale Convective Systems (MCS) using 1TB+ data",
-        "Researcher UNet architechture as well as XGBoost for time series analysis",
+        "Researching UNet architechture as well as XGBoost for time series analysis",
         "Testing segmentation algorithms on datasets to validate accuracy",
       ],
     },
@@ -52,7 +52,7 @@ export const siteConfig = {
       bullets: [
         "Developing AR simulation software modeling data flow across components using Python and computer vision",
         "Integrated Python FaceMesh for double blink camera detection for autonomous actions",
-        "Presented software to team members ",
+        "Presented software to team members during meetings",
       ],
     },
     {
