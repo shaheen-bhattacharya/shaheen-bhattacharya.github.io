@@ -86,7 +86,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
+      school: "University of Maryland",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "Expected 2027",
       achievements: [
