@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/shaheen-bhattacharya",
   },
   aboutMe:
-    "",
+    "I’m a student at the University of Maryland and am looking for positions in software development and the AI space. As a Computer Science major, I am intrigued by the prospect of AI and its potential in making everyday tools smarter, more accessible, and more impactful. I’ve built projects using Python, Java, JavaScript, and React, and I enjoy tackling complex problems through code.",
   skills: ["Python", "Java", "C/C++", "SQL", "HTML/CSS/JS", "PyTorch", "TensorFlow", "Git", "REST APIs", "Office 365", "Google Suite"],
   projects: [
     {
