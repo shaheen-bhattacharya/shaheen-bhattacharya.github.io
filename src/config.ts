@@ -29,8 +29,8 @@ export const siteConfig = {
     {
       name: "Summailize",
       description:
-        "starter templates & examples",
-      link: "Summailize is a smart email assistant that automatically fetches unread Gmail messages, summarizes them using Google Gemini AI, categorizes them into types (like Job Opportunity, Event, Promotion, etc.), applies labels inside Gmail, and shows you desktop notifications. Built for users who find it inconvenient to navigate through thousands of unread emails.",
+        "Summailize is a smart email assistant that automatically fetches unread Gmail messages, summarizes them using Google Gemini AI, categorizes them into types (like Job Opportunity, Event, Promotion, etc.), applies labels inside Gmail, and shows you desktop notifications. Built for users who find it inconvenient to navigate through thousands of unread emails.",
+      link: "https://github.com/shaheen-bhattacharya/Summailize",
       skills: ["REST API", "Automation", "AI/ML Development", "Gmail API"],
     },
   ],
